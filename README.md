@@ -123,10 +123,14 @@ class Suryanshu:
 ![](https://github-profile-trophy.vercel.app/?username=Suryanshu7&theme=tokyonight&row=1&column=6&no-frame=true)
 
 ---
-
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Suryanshu7/Suryanshu7/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
 
 ---
 
