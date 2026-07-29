@@ -109,19 +109,19 @@ class Suryanshu:
 </a>
 
 </div>
-# 🚀 GitHub Dashboard
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suryanshu7&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suryanshu7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Suryanshu7&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Suryanshu7&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshu7&layout=donut&theme=transparent&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshu7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
